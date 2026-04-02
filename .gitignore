@@ -1,3 +1,7 @@
 .vs/
 Proyecto3_BasesDeDatos_IC2026.slnx
 *.user
+.vs/
+*.ssmssln
+*.ssmssqlproj
+*.user
