@@ -1,0 +1,1 @@
+DROP  DATABASE [Empresa_IT];
